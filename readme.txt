@@ -4,7 +4,7 @@ to creatively and dynamically solve puzzles.
 Run the project by running "main.py" in an editor with all the other python and
 image files in the same folder.
 
-Libraries: none
+Video: https://youtu.be/euLETe5aCG0
 
 Shortcut commands:
  - 1 for level one
