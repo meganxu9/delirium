@@ -1,8 +1,8 @@
-Delirium: isometric game utilizing optical illusions and impossible objects 
-to creatively and dynamically solve puzzles.
+Delirium: isometric game utilizing optical illusions and impossible objects to creatively and dynamically solve puzzles. 
 
-Run the project by running "main.py" in an editor with all the other python and
-image files in the same folder.
+Created by Megan Xu for Carnegie Mellon University 15112 term project and won 3rd place of 500+ projects.
+
+Run the project by running "main.py" in an editor with all the other python and image files in the same folder.
 
 Video: https://youtu.be/euLETe5aCG0
 
